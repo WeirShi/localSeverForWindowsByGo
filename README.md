@@ -1,1 +1,8 @@
-# localSeverForWindowsByGo
+# GO编写的启动local的服务
+
+## 将main.go文件编译过后的exe文件放入项目文件根目录下，双击打开即可
+
+### 默认为80端口
+
+
+PS: 仅为个人保存使用！！！！
